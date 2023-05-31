@@ -1,7 +1,7 @@
 import axios from "axios";
 import queryString from "query-string";
 
-const baseURL = "https://mern-vercal.vercel.app/api/v1/";
+const baseURL = "https://api-lilac-sigma-11.vercel.app/api/v1/";
 
 const publicClient = axios.create({
   baseURL,
